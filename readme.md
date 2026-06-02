@@ -14,4 +14,9 @@
 9.rm -remove files or directories: used to delete files permanently.    
 10.touch - used to create empty files and update files.  
 
-
+##GIT Commands:  
+1.git init -Initializes a new, empty Git repository in the current folder.  
+2.git status -Shows which files are modified, staged, or untracked.  
+3.git branch -Lists all local branches.  
+4.git pull -Downloads changes and immediately merges them (Fetch + Merge).  
+5.git fetch -Downloads changes from the remote but does not update your code.
